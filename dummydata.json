@@ -4,30 +4,30 @@
       {
          "id":"77528950",
          "data":"[]",
-         "expiration_time":1469982023,
+         "expiration_time":1469895923,
          "pokemonId":"143",
-         "latitude":29.889696,
-         "longitude":-97.959223,
+         "latitude":39.0440,
+         "longitude":-77.4870,
          "uid":"883cae449c7:19",
          "is_alive":true
       },
       {
          "id":"77528950",
          "data":"[]",
-         "expiration_time":1469982078,
+         "expiration_time":1469895950,
          "pokemonId":"141",
-         "latitude":29.889693,
-         "longitude":-97.959229,
+         "latitude":39.0435,
+         "longitude":-77.4878,
          "uid":"883cae449c7:19",
          "is_alive":true
       },
       {
          "id":"77528950",
          "data":"[]",
-         "expiration_time":1469982090,
+         "expiration_time":1469895990,
          "pokemonId":"139",
-         "latitude":29.889700,
-         "longitude":-97.959250,
+         "latitude":39.0430,
+         "longitude":-77.4880,
          "uid":"883cae449c7:19",
          "is_alive":true
       }
