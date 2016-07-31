@@ -1,0 +1,25 @@
+{
+   "status":"success",
+   "pokemon":[
+      {
+         "id":"77528950",
+         "data":"[]",
+         "expiration_time":1469238283,
+         "pokemonId":"19",
+         "latitude":42.276610135556,
+         "longitude":-83.732323840051,
+         "uid":"883cae449c7:19",
+         "is_alive":true
+      },
+      {
+         "id":"77528950",
+         "data":"[]",
+         "expiration_time":1469238283,
+         "pokemonId":"19",
+         "latitude":42.276610135556,
+         "longitude":-83.732323840051,
+         "uid":"883cae449c7:19",
+         "is_alive":true
+      }
+    ]
+}
