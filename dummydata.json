@@ -1,0 +1,35 @@
+{
+   "status":"success",
+   "pokemon":[
+      {
+         "id":"77528950",
+         "data":"[]",
+         "expiration_time":1469982023,
+         "pokemonId":"143",
+         "latitude":29.889696,
+         "longitude":-97.959223,
+         "uid":"883cae449c7:19",
+         "is_alive":true
+      },
+      {
+         "id":"77528950",
+         "data":"[]",
+         "expiration_time":1469982078,
+         "pokemonId":"141",
+         "latitude":29.889693,
+         "longitude":-97.959229,
+         "uid":"883cae449c7:19",
+         "is_alive":true
+      },
+      {
+         "id":"77528950",
+         "data":"[]",
+         "expiration_time":1469982090,
+         "pokemonId":"139",
+         "latitude":29.889700,
+         "longitude":-97.959250,
+         "uid":"883cae449c7:19",
+         "is_alive":true
+      }
+    ]
+}
